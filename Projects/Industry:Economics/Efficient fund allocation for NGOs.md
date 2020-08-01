@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Efficient fund/aid allocation for NGOs
+title: Efficient fund allocation for NGOs
 parent: Industry/Economics
 grand_parent: Projects 
 nav_order: 5
 ---
 
 
-## Efficient fund/aid allocation for NGOs
+## Efficient fund allocation for NGOs
 *Partner: Cara Arellano, DaanMatch*
 
 ### Overview
