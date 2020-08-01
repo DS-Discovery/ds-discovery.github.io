@@ -1,13 +1,13 @@
 ---
 layout: page
-title: NAME TBD
+title: Outsmarting the barriers for accessing the safety-net
 parent: COVID-19
 grand_parent: Projects 
 nav_order: 3
 ---
 
 
-## NAME TBD
+## Outsmarting the barriers for accessing the safety-net
 *Partner:Unai Montes-Irueste, United Ways of California*
 
 ### Overview
