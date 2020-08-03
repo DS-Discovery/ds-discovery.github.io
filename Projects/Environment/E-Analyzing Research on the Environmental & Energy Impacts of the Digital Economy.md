@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## Analyzing Research on the Environmental & Energy Impacts of the Digital Economy
+# Analyzing Research on the Environmental & Energy Impacts of the Digital Economy
 *Partner: Cait Cady,Berkeley Law Center for Law, Energy & the Environment, Academic*
 
 ## Overview
