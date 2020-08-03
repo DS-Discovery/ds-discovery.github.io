@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-## Reduce service outages of BART
+# Reduce service outages of BART
 *Partner: Wendy Wheeler, BART (BAY AREA RAPID TRANSIT), Government*
 
 ## Overview
