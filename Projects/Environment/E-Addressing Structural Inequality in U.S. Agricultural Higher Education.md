@@ -7,7 +7,7 @@ nav_order: 0
 ---
 
 
-## Addressing Structural Inequality in U.S. Agricultural Higher Education: An Assessment of Pedagogical Practices and Food Systems Coursework at Land-grant Institutions
+# Addressing Structural Inequality in U.S. Agricultural Higher Education: An Assessment of Pedagogical Practices and Food Systems Coursework at Land-grant Institutions
 *Partner: Rosalie Z. Fanshel, UC Berkeley, Department of Environmental Science, Policy, and Management, Academic*
 
 ## Overview
