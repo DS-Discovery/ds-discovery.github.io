@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 2
 ---
 
-## Erroneous High Occupancy Vehicle (HOV) Degradation
+# Erroneous High Occupancy Vehicle (HOV) Degradation
 *Partner: Yashar Farid,California Partners for Advanced Transportation Technology (PATH), Government & Academic*
 
 ## Overview
