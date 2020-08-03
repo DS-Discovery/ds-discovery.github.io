@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-## Efficient fund allocation for NGOs
+# Efficient fund allocation for NGOs
 *Partner: Cara Arellano, DaanMatch, Industry*
 
 ## Overview
