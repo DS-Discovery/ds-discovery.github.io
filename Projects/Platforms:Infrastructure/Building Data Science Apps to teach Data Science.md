@@ -7,7 +7,7 @@ nav_order: 0
 ---
 
 
-## Building Data Science Apps to teach Data Science
+# Building Data Science Apps to teach Data Science
 *Partner: Tim Hurt, Lawrence Hall of Science, Non-Profit*
 ## Overview
 ### Project Description
