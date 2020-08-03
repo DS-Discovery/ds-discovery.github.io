@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-## Image Clustering and metric inference
+# Image Clustering and metric inference
 *Partner: Brent Morann, Creative Commons, Non-Profit*
 
 ## Overview
