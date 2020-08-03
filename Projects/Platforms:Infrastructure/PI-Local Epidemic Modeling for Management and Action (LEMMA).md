@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 10
 ---
 
-## Local Epidemic Modeling for Management and Action (LEMMA)
+# Local Epidemic Modeling for Management and Action (LEMMA)
 *Partner: Christopher Hoover, UC Berkeley, Academic*
 
 ## Overview
