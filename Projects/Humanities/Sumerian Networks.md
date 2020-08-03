@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 1
 ---
 
-## Sumerian Networks
+# Sumerian Networks
 *Partner:Adam Anderson, UC Berkeley: DH / D-Lab / BIDS, Academic*
 
 ## Overview
