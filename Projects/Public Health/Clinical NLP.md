@@ -7,7 +7,7 @@ nav_order: 0
 ---
 
 
-## Clinical Natural Language Understanding using transformer models and extensions incorporating tabular data
+# Clinical Natural Language Understanding using transformer models and extensions incorporating tabular data
 *Partner: Vivek Rudrapatna, University of California, San Francisco, Academic*
 
 ## Overview
