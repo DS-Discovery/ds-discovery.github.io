@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-## Outsmarting the barriers for accessing the safety-net
+# Outsmarting the barriers for accessing the safety-net
 *Partner: Unai Montes-Irueste, United Ways of California, Non-Profit*
 
 ## Overview
