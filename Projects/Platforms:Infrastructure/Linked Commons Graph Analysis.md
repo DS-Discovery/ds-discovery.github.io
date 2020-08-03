@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 
-## Linked Commons Graph Analysis
+# Linked Commons Graph Analysis
 *Partner:Brent Morann, Creative Commons, Non-Profit*
 
 ## Overview
