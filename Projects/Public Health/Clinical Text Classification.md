@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## Clinical text classification/information extraction to understand real-world treatment effects at a large, academic medical center
+# Clinical text classification/information extraction to understand real-world treatment effects at a large, academic medical center
 *Partner: Vivek	Rudrapatna, University of California, San Francisco, Academic*
 
 ## Overview
