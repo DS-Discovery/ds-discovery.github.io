@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 2
 ---
 
-## Building Integrated Solar Photovoltaics Assessment via ML
+# Building Integrated Solar Photovoltaics Assessment via ML
 *Partner: Sergio Castellanos, UC Berkeley, Academic*
 
 ## Overview
