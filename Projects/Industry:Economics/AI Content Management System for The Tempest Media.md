@@ -7,7 +7,7 @@ nav_order: 0
 ---
 
 
-## AI Content Management System for The Tempest Media 
+# AI Content Management System for The Tempest Media 
 *Partner: Farwa Farshori, The Tempest Media, Industry*
 
 ## Overview
