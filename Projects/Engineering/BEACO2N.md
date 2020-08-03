@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 0
 ---
 
-## BEACO2N: Calibration and analyses of sensor networks
+# BEACO2N: Calibration and analyses of sensor networks
 *Partner: Ronald Cohen, UC Berkeley, Department of Chemistry, Academic*
 
 ## Overview
