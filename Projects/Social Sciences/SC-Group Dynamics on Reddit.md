@@ -3,11 +3,11 @@ layout: default
 title: Group Dynamics on Reddit
 parent: Social Sciences
 grand_parent: Projects
-nav_order: 0
+nav_order: 5
 ---
 
 
-## Group Dynamics on Reddit
+# Group Dynamics on Reddit
 *Partner: Daniel Stein, UC Berkeley, Academic*
 
 ## Overview
