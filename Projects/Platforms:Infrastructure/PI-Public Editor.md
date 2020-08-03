@@ -7,7 +7,7 @@ nav_order: 14
 ---
 
 
-## Public Editor
+# Public Editor
 *Partner: Nick Adams, Goodly Labs, Non-Profit & Academic*
 
 ## Overview
