@@ -7,7 +7,7 @@ nav_order: 0
 ---
 
 
-## Group Dynamics on Reddit
+# Group Dynamics on Reddit
 *Partner: Daniel Stein, UC Berkeley, Academic*
 
 ## Overview
