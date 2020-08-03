@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 
-## System telemetry analysis
+# System telemetry analysis
 *Partner: Ian Smith, Powerside, Industry*
 
 ## Overview
