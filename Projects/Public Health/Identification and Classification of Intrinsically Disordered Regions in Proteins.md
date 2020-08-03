@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-## Identification and Classification of Intrinsically Disordered Regions in Proteins
+# Identification and Classification of Intrinsically Disordered Regions in Proteins
 *Partner: Marc Singleton, Biophysics graduate program, UC Berkeley, Academic*
 
 ## Overview
