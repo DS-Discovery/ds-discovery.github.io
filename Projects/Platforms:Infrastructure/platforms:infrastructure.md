@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 5
 has_children: true
 ---
-# Platforms/Infrastructure
+# **Platforms/Infrastructure**
 {: .fs-9 }
 
 Portfolio of Platforms/Infrastructure projects for Fall 2020. 
