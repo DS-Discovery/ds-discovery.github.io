@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 5
 ---
 
-## Mapping for Environmental Justice
+# Mapping for Environmental Justice
 *Partner: Kelly Armijo, UC Berkeley, Non-Profit*
 
 ## Overview
