@@ -7,7 +7,7 @@ nav_order: 19
 ---
 
 
-## Wordnik Hyphenation Project
+# Wordnik Hyphenation Project
 *Partner:Erin McKean, Wordnik Society, Non-Profit*
 
 ## Overview
