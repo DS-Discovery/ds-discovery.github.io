@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 7
 has_children: true
 ---
-# Social Sciences
+# **Social Sciences**
 {: .fs-9 }
 
 Portfolio of Social Sciences projects for Fall 2020. 
