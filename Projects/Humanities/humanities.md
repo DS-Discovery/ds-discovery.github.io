@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 2
 has_children: true
 ---
-# Humanities
+# **Humanities**
 {: .fs-9 }
 
 Portfolio of Humanities projects for Fall 2020. 
