@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 2
 ---
 
-## Enhancing regional scale natural hazard simulations with artificial intelligence
+# Enhancing regional scale natural hazard simulations with artificial intelligence
 *Partner: Matt Schoettler, NHERI SimCenter, Government*
 
 ## Overview
