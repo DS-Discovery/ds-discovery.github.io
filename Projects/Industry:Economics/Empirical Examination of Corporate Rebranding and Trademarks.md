@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-## Empirical Examination of Corporate Rebranding and Trademarks
+# Empirical Examination of Corporate Rebranding and Trademarks
 *Partner: Sonia	Katyal, UC Berkeley, Law School, Academic*
 
 ## Overview
