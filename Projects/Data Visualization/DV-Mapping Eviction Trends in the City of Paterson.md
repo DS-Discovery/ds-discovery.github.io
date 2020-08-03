@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## Mapping Eviction Trends in the City of Paterson 
+# Mapping Eviction Trends in the City of Paterson 
 *Partner: Harsha Mallajosyula, City of Paterson, Government*
 
 ## Overview
