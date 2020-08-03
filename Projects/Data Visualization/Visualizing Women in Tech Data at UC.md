@@ -6,7 +6,7 @@ grand_parent: Projects
 nav_order: 4
 ---
 
-## Visualizing Women in Tech Data at UC
+# Visualizing Women in Tech Data at UC
 *Partner: Jill Finlayson, WITI@UC, CITRIS and COE, Academic*
 
 ## Overview
