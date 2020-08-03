@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 4
 has_children: true
 ---
-# Engineering
+# **Engineering**
 {: .fs-9 }
 
 Portfolio of Engineering projects for Fall 2020. 
