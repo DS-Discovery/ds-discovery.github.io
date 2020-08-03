@@ -7,7 +7,7 @@ nav_order: 11
 ---
 
 
-## Mapping for Environmental Justice
+# Mapping for Environmental Justice
 *Partner: Kelly Armijo, UC Berkeley, Non-Profit*
 
 ## Overview
