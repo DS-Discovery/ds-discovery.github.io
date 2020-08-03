@@ -3,16 +3,20 @@ layout: default
 title: Data Visualisation for Covid-19 Free online Platform
 parent: Data Visualization
 grand_parent: Projects 
-nav_order: 0
+nav_order: 3
 ---
 
 
-## Data Visualisation for Covid-19 Free online Platform
-*Partner:Anna OLeary, BioXplor Inc*
+# Data Visualisation for Covid-19 Free online Platform
+*Partner: Anna OLeary, BioXplor Inc, Non-Profit*
 
-### Overview
-
-1) design & build a modern dashboard to show a summary behind various Covid-19 Ontologies powered by Biomedical Literature (gene, drug, disease, source, author, applications, gene mutations etc)
+## Overview
+### Project Description
+Design & build a modern dashboard to show a summary behind various Covid-19 Ontologies powered by Biomedical Literature (gene, drug, disease, source, author, applications, gene mutations etc)
+### Expected Deliverable
+Web Dashboard 
+### What would a successful semester look like to you?
+Achieving the set goals and be proud of your work
 
 ## Data
 
