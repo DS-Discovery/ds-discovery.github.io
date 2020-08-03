@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 3
 has_children: true
 ---
-# Industry/Economics
+# **Industry/Economics**
 {: .fs-9 }
 
 Portfolio of Industry/Economics projects for Fall 2020. 
