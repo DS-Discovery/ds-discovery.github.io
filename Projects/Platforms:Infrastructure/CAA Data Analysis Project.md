@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## CAA Data Analysis Project
+# CAA Data Analysis Project
 *Partner: Kaylee	Chang, Cal Alumni Association, Non-Profit*
 
 ## Overview
