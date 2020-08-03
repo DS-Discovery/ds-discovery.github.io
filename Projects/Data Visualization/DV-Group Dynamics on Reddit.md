@@ -20,7 +20,7 @@ I downloaded 10 years of Reddit data (metadata and content). I am looking to cle
 Cleaned dataset, fitted models, visualizations
 ### What would a successful semester look like to you?
 Interested undergraduates learn about the cycle of a social science research project and some preliminary results on the Reddit project 
-### Additional Skills from ideal candidates
+### Additional Skills from ideal candidate
 Interest in psychology research is a plus
 
 ## Data
