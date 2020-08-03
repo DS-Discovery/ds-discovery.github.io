@@ -7,7 +7,7 @@ nav_order: 18
 ---
 
 
-## Wordnik Etymology Search
+# Wordnik Etymology Search
 *Partner: Erin McKean, Wordnik Society, Non-Profit*
 
 ## Overview
