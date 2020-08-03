@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-## Evaluating Accessibility on Congressional Websites
+# Evaluating Accessibility on Congressional Websites
 *Partner:Emma Lurie, School of Information, UC Berkeley, Academic*
 
 ## Overview
