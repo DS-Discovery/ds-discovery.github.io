@@ -7,7 +7,7 @@ nav_order: 17
 ---
 
 
-## Using AI and real-time data to power an early warning system for public safety and the recognition of emotions
+# Using AI and real-time data to power an early warning system for public safety and the recognition of emotions
 *Partner: Dacher	Keltner, UC Berkeley, Academic*
 
 ## Overview
