@@ -7,7 +7,7 @@ nav_order: 13
 ---
 
 
-## A Precision Medicine Recommender System for Inflammatory Bowel Disease: a pilot study using real electronic health records data from UCSF
+# A Precision Medicine Recommender System for Inflammatory Bowel Disease: a pilot study using real electronic health records data from UCSF
 *Partner: Vivek Rudrapatna, University of California, San Francisco, Academic*
 
 ## Overview
