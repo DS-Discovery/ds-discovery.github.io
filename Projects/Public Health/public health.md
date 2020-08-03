@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 6
 has_children: true
 ---
-# Public Health
+# **Public Health**
 {: .fs-9 }
 
 Portfolio of Public Health projects for Fall 2020. 
