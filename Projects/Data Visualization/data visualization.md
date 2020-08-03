@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 0
 has_children: true
 ---
-# Data Visualizations
+# **Data Visualizations**
 {: .fs-9 }
 
 Portfolio of Data Visualization projects for Fall 2020. 
