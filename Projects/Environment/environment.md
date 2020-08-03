@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 1
 has_children: true
 ---
-# Environment
+# **Environment**
 {: .fs-9 }
 
 Portfolio of Environment projects for Fall 2020. 
