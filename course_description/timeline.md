@@ -21,7 +21,7 @@ nav_order: 0
 
    > Tool | Instruction 
    :------------ | :------------- 
-   [Student Dashboard](https://docs.google.com/spreadsheets/d/1OGcHsZC4B04QZlDhPNZ-wPlJeiNmpEPtmVdP1iqmDYI/copy)| [Instruction](https://drive.google.com/drive/folders/1tseEQjrSLPogwuHfBS0tKv2uMs4qI_dj)
+   [Student Dashboard](https://docs.google.com/spreadsheets/d/1OGcHsZC4B04QZlDhPNZ-wPlJeiNmpEPtmVdP1iqmDYI/copy)| [Instruction](https://youtu.be/8ZczBU-JBm8)
    [Partner Dashboard](https://drive.google.com/drive/folders/1YRuS28hDuMLhRxhaUR9CKA8Af0rmr-tk)| [Instruction](www.google.com)
 
 > ### Onboarding Checklist
