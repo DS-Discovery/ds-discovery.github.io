@@ -6,9 +6,6 @@ grand_parent: Projects
 nav_order: 4
 ---
 
-
-
-
 # Evaluating Alameda County CO2 Emissions and Optimizing Customer Programs Using Marginal Emissions Data 
 *Partner:Kevin Li, East Bay Community Energy, Industry & Government*
 
@@ -29,17 +26,6 @@ A successful semester would consist of identifying the best CO2 accounting metho
 
 ### Additional Skills from ideal candidates
 Willingness to read academic papers, able to think critically about problems, experience with power point or similar programs to present results to other teams in the organization.
-
-## Data
-
-## Models
-
-## Conclusion
-
-
-```python
-
-```
 
 ## Data
 
