@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-# Business Case for Investment into MMR vaccination by Developing NAtions
+# Business Case for Investment into MMR vaccination by Developing Nations
 *Partner: Pranav Desai, Voice of Specially Abled People Inc, Non-Profit*
 
 ## Overview
