@@ -15,22 +15,21 @@ nav_order: 0
 {:toc}
 
 ---
-## Project Matching: 08/24/2020 - 09/04/2020
+## Project Matching: 08/10/2020 - 09/04/2020
+   > The matching phase takes place between 8/10 and 9/4. From 8/10 to 8/24 we will be collecting student applications and passing them on to Project Partners. On 8/24, the student application will close and Project Partners will have two weeks to wrap up interviews and finalize their student team.
 
 > ### Project Matching Tools 
+   > We have created some tools to help students find which project they are best suited for, and to help Project Partners decide which applicants are good fits. Please watch the accompanying video for more information.
 
    > Tool | Instruction 
    :------------ | :------------- 
    [Student Dashboard](https://bit.ly/2DzP49O)| [Instruction](https://bit.ly/3iabkG9)
    [Partner Dashboard](https://drive.google.com/drive/folders/1YRuS28hDuMLhRxhaUR9CKA8Af0rmr-tk)| [Instruction](www.google.com)
 
-> ### Onboarding Checklist
-   > * Student 
-   >> - [x] Complete Application by 08/24
-   > * Partner
-   >> - [x] Complete interviewing by 09/04
 
 ## Modules: 09/04/2020 - 12/10/2020
+   > Once teams are finalized, students will be asked to complete a series of assignments, attend live working group sessions and dig into asynchronous workshop materials. These resources will culminate in a final presentation to be submitted for the end-of-semester Showcase event. We will be posting assignment submissions on this website so we can all be inspired by what other projects are up to!
+   
    > Module | Description | Conference | Assignment   
    :------------ | :------------- | :------------- | :-------------
    Module 1: Define the Problem | What is the question your project is attempting to answer? Where does your project fit within the broader conversation/controversy surrounding your topic? | [LiveEvent + Date](www.google.com) | [bCoursesAssignment](www.google.com)
@@ -39,7 +38,7 @@ nav_order: 0
    Module 4: Propose a Solution/Model | How does it work? | [LiveEvent + Date](www.google.com) | [bCoursesAssignment](www.google.com)
    Module 5: Examine the Impact | What were your results / what results do you expect? What decisions will be made as a result of your work?| [LiveEvent + Date](www.google.com) | [bCoursesAssignment](www.google.com)
 
-## Final Showcase [DATE]
-   > In lieu of an in person Discovery Showcase, we ask that each project submit a Blog Post detailing your work this semester. All work-in-progress will be recorded on this website and final submissions will be included on the Division of Computing, Data Science and Society’s website. Submissions due [DATE].
+## Final Showcase [DATE TBA]
+   > In early December, we will be holding a live Zoom event for students to showcase their work to our extended data science community. final submissions will be included on the Division of Computing, Data Science and Society’s website. Submissions due [DATE TBA].
 
  
