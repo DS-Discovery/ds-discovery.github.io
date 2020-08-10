@@ -19,7 +19,7 @@ nav_order: 0
    > The matching phase takes place between 8/10 and 9/4. From 8/10 to 8/24 we will be collecting student applications and passing them on to Project Partners. On 8/24, the [student application](https://docs.google.com/forms/d/e/1FAIpQLSdo27PXKHHoTlq6NECz6Tah_JB3UBnPhPgUnLDTb9-zPmhRmQ/viewform) will close and Project Partners will have two weeks to wrap up interviews and finalize their student team.
 
 > ### Project Matching Tools 
-   > We have created some tools to help students find which project they are best suited for, and to help Project Partners decide which applicants are good fits. Please watch the accompanying video for more information.
+   > We have created some tools to help students find which project they are best suited for, and to help Project Partners decide which applicants are good fits. Please watch the accompanying video for more information. If project size shows as 0, it means that the partner(s) haven't specified their expected number of students. If you have any questions or feedback, please reach out to us at ds-discovery@berkeley.edu.
 
    > Tool | Instruction 
    :------------ | :------------- 
