@@ -1,12 +1,11 @@
 ---
 layout: default
-title: FAQ
-parent: Resources
-nav_order: 2
+title: Partner FAQ
+parent: Common Questions
+grand_parent: Resources
+nav_order: 0
 ---
-## Common Qustions 
-
-### Partners
+## Partners
 
    > - *Do I need to think about units/credits for the students?*
    >> Students need to have signed up with URAP credits. At a minimum, they should	be earning 2 units though if they are going above 6-8 hours a week, they can earn 3 units. 
@@ -19,8 +18,5 @@ nav_order: 2
    > - *Is there a limit on how many students I can select?*
    >> There is no limit on the number of students selected since students might opt for other projects. However, once the roster is finalized, we usually recommend not onboarding more than 5 students.
    > - *For the students that are not selected, do they have the option to join another project?*
-   >> Students can initially apply to three projects. If they are rejected from their three top choices, they have option to be considered for one of the other 40 projects in the Discovery Program
-
-
-### Students
+   >> Students can initially apply to three projects. If they are rejected from their three top choices, they have option to be considered for one of the other 40 projects in the Discovery Program.
 
