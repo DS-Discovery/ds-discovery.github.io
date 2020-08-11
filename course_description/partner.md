@@ -24,7 +24,7 @@ nav_order: 2
 
 
 ## Surveys
-   > There will be 4 feedback sueveys in total throughout the semester containing multiple choice and short answer questions. Please complete the feedbacks promptly as they give us a clearer sense of how we can assist you and your team.
+   > There will be 4 feedback surveys in total throughout the semester containing multiple choice and short answer questions. Please complete the feedbacks promptly as they give us a clearer sense of how we can assist you and your team.
 
    >Survey | Due Date | Link
    :------------ | :------------- | :-------------
