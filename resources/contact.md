@@ -12,7 +12,7 @@ nav_order: 3
 Arlo Malmberg | Program Manager | malmberg@berkeley.edu 
 Claire Huang | Program Coordinator | claire-hw-huang@berkeley.edu 
 Violet Yao | Program Coordinator | violetyao@berkeley.edu 
-Pooja Doctor | Data Collaborative Fellow | doctor.pooja@berkeley.edu   
+Pooja Doctor | Program Coordinator | doctor.pooja@berkeley.edu   
 
 ### Anonymous Feedback Form 
 [Link](http://example.com/)
