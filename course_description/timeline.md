@@ -24,7 +24,7 @@ nav_order: 0
    > Tool | Instruction 
    :------------ | :------------- 
    [Student Dashboard](https://bit.ly/2DzP49O)| [Instruction](https://bit.ly/3iabkG9)
-   [Partner Dashboard](https://drive.google.com/drive/folders/1YRuS28hDuMLhRxhaUR9CKA8Af0rmr-tk)| [Instruction](https://bit.ly/3gMmXD4)
+   [Partner Dashboard](https://bit.ly/2Cksi5u)| [Instruction](https://bit.ly/3gMmXD4)
 
 
 ## Modules: 09/04/2020 - 12/10/2020
