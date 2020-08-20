@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Developing mindset metrics - business and societal applications
+title: Developing mindset metrics for business and societal applications
 parent: Social Sciences
 grand_parent: Projects 
 nav_order: 10
 ---
 
 
-# Developing mindset metrics - business and societal applications
+# Developing mindset metrics for business and societal applications
 *Partner: Ming Hsu, Haas School of Business, Academic*
 
 ## Overview
