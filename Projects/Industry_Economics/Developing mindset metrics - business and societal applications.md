@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Developing mindset metrics: business and societal applications
+title: Developing mindset metrics - business and societal applications
 parent: Industry/Economics
 grand_parent: Projects 
 nav_order: 7
 ---
 
 
-# Developing mindset metrics: business and societal applications
+# Developing mindset metrics - business and societal applications
 *Partner: Ming Hsu, Haas School of Business, Academic*
 
 ## Overview
@@ -17,9 +17,9 @@ This research project aims to develop and apply cutting-edge data science, espec
 Students will explore application and extensions of these models in one of two projects: (i) quantifying and linking stereotypes in news and social media to real world measures of prejudice and discrimination, and (ii) developing metrics of consumer ""mindset"" capturing how consumers think, feel, and behave toward different products and brands.  
 Specifically, student researchers will be trained to 
 
-1. mine online content ranging from news media, social media, and social networks 
-2. develop computational models that utilize semantic relationship embodied by real-world text corpora to capture cognitive processes
-3. combine these models with computational social neuroscience models to predict real-world and laboratory behavior and outcomes
+>1. mine online content ranging from news media, social media, and social networks 
+>2. develop computational models that utilize semantic relationship embodied by real-world text corpora to capture cognitive processes
+>3. combine these models with computational social neuroscience models to predict real-world and laboratory behavior and outcomes
 
 Qualifications: Strong computational and programming skills, interest in computational social science. 
 Desirable, but not essential: Experience with natural language processing and text analysis
