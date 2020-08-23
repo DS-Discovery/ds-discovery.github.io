@@ -12,7 +12,9 @@ nav_order: 13
 
 ## Overview
 ### Project Description
-The Demo Watch project has collected and is curating over 8,000 news articles describing all the interactions between police and protesters during the Occupy movement. This semester, students will work with senior researchers and professors from Goodly Labs, NYU, and the Univ. of Michigan to (1) implement/code a multi-level time-series model that will analyze curated Demo Watch data to find patterns of peaceful and violent activity; and (2) create a text classifier, via supervised machine learning, that is capable of scanning through news articles about protest to identify important data for analysis.
+The Demo Watch project has collected and is curating over 8,000 news articles describing all the interactions between police and protesters during the Occupy movement. This semester, students will work with senior researchers and professors from Goodly Labs, NYU, and the Univ. of Michigan to 
+>1) implement/code a multi-level time-series model that will analyze curated Demo Watch data to find patterns of peaceful and violent activity 
+>2) create a text classifier, via supervised machine learning, that is capable of scanning through news articles about protest to identify important data for analysis.
 
 ### Expected Deliverable
 Building multi-level, time series models of police, protester, & city government interaction. And building text classifiers via supervised ML.
