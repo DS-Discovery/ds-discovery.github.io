@@ -6,12 +6,14 @@ nav_order: 1
 ---
 ## Markdown Resources
 
+### Here are some markdown resources we compiled for you!
+
 Some quick references:
 
 | Element| Markdown Syntax |
 | --- | ----------- |
-| Heading |  `# H1` |
-| Bold |  `**bold text**` |
+| Heading | `# H1` |
+| Bold | `**bold text**` |
 | Italic | `*italicized text*`|
 | Blockquote |`> blockquote`|
 |Link| `[title](https://www.example.com)`|
@@ -21,6 +23,6 @@ If you need more information,
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
-### More complicated templates
-- [HTML/CSS/JS](https://github.com/yenchiah/project-website-template)
-- [Hugo Academic](https://github.com/gcushen/hugo-academic)
+A great online interactive markdown example can be found at https://markdown-it.github.io/
+
+Local markdown editor recommendation: https://macdown.uranusjr.com/
