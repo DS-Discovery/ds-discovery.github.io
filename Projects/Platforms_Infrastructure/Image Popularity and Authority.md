@@ -8,7 +8,7 @@ nav_order: 4
 
 
 # Image Popularity and Authority
-*Partner:Brent Morann, Creative Commons, Non-Profit*
+*Partner:Brent Moran, Creative Commons, Non-Profit*
 
 ## Overview
 ### Project Description
