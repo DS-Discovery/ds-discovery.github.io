@@ -6,6 +6,11 @@ grand_parent: Resources
 nav_order: 1
 ---
 ## Skillset Resources
+
+### Accessing Requests
+- [Azure Cloud Credits Requests](https://docs.google.com/forms/d/e/1FAIpQLSejRkm01TPBkwieuouxBcqCss4Q9B1meR9200NKngwok97Kmg/viewform)
+- [GitHub Team Setup](https://docs.google.com/forms/d/e/1FAIpQLSezdoDE-3gJ7ow6Pchbpa_c_22Tdo4-WoeVuSCBX5AIJ9iEAA/viewform)
+
 ### Programming resources: 
 
 - Free Google courses on Python 
