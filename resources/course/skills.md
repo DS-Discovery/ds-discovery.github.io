@@ -5,7 +5,8 @@ parent: Course Resources
 grand_parent: Resources
 nav_order: 1
 ---
-## Programming resources: 
+## Skillset Resources
+### Programming resources: 
 
 - Free Google courses on Python 
      - Google offers a free online course [Programming for Everybody (Getting Started with Python)](https://learndigital.withgoogle.com/digitalgarage/course/programming-for-everybody-python) 
@@ -17,17 +18,17 @@ nav_order: 1
 - Udemy offers a free online course on R
      - The course is for beginners learning the basics of programming language R: [free R tutorial](https://www.udemy.com/course/r-basics/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-K3jzsZrSlmrioQNXjgcjhQ&utm_medium=udemyads&utm_source=aff-campaign)
 
-## Git and relational databases resources
+### Git and relational databases resources
 - MySQL tutorial for beginners
      - This tutorial is a great and [free introduction to using MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=913s) 
      - Resources to learn [Git](https://try.github.io/)
 
-## Beginner to advanced general data science resources
+### Beginner to advanced general data science resources
 - Data science and cognitive computing courses 
      - IBM offers [free online courses in data science and computing](https://cognitiveclass.ai/). Upon completion of some online courses, a digital badge is offered. 
      - Some courses offered by Coursera are eligible for [financial assistance](https://learner.coursera.help/hc/en-us/articles/115003084226-Solve-problems-with-Financial-Aid-or-Scholarships), For additional information, please contact Coursera directly
 
-## Data visualization resources: 
+### Data visualization resources: 
 - Tableau offers students a [free one-year subscription to Tableau desktop](https://www.tableau.com/academic/students).For any additional information, please contact Tableau directly. 
 
 ## Statistical analysis resources: 
