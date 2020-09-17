@@ -5,7 +5,7 @@ parent: Course Resources
 grand_parent: Resources
 nav_order: 2
 ---
-## Advising
+## Advising Resources
 
 ### Peer Advisors
    > Peer Advisors complement the [Data Science Advising services](https://data.berkeley.edu/degrees/student-services) by sharing their diverse knowledge of and experiences with major courses, different Data Science Major domain emphases, extracurriculars and student groups on campus, research opportunities, and various campus resources.
