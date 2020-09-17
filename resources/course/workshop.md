@@ -9,16 +9,13 @@ nav_order: 0
 
 Content | Zoom Link/Recording | Workshop Slides
 ------------ | -------------
-Orientation | [Recording](www.google.com) | [Slides](www.google.com)
-How to Fail | [Recording](www.google.com) | [Slides](www.google.com)
-Project Design, Design Justice & Problem Definition | [Recording](www.google.com) | [Slides](www.google.com)
-Version Control & Documentation | [Recording](www.google.com) | [Slides](www.google.com)
-Conflict Resolution | [Recording](www.google.com) | [Slides](www.google.com)
-Team Leadership | [Recording](www.google.com) | [Slides](www.google.com)
-Communication | [Recording](www.google.com) | [Slides](www.google.com)
-How is Data Made, Biased | [Recording](www.google.com) | [Slides](www.google.com)
-Communicating Results & Visualizing Bias | [Recording](www.google.com) | [Slides](www.google.com)
-How to Do a Passion Project | [Recording](www.google.com) | [Slides](www.google.com)
-Interactive Web-Based Visualizations | [Recording](www.google.com) | [Slides](www.google.com)
-How to Talk about Data to Non-Data Scientists | [Recording](www.google.com) | [Slides](www.google.com)
-End to End Walkthrough | [Recording](www.google.com) | [Slides](www.google.com)
+Orientation | [Recording](https://www.youtube.com/playlist?list=PL2GVeVdOueTjtGE6H9y57Blk-6xEFqQIw) | Slides
+Project Design, Design Justice & Problem Definition | Recording | [Slides](https://drive.google.com/drive/folders/1wUFJtoxiUCGXDOlEU2urRXZH_JKWwlCs?usp=sharing)
+How to do Responsible Data Science | Recording | [Slides](https://drive.google.com/drive/folders/1wUFJtoxiUCGXDOlEU2urRXZH_JKWwlCs?usp=sharing)
+How to make a Data Science Project Robust | Recording | [Slides](https://drive.google.com/drive/folders/1wUFJtoxiUCGXDOlEU2urRXZH_JKWwlCs?usp=sharing)
+How to Talk about Data | Recording | [Slides](https://drive.google.com/drive/folders/1wUFJtoxiUCGXDOlEU2urRXZH_JKWwlCs?usp=sharing)
+Cloud Development and Deployment | Recording | [Slides](https://docs.google.com/presentation/d/12VgUk-bZ45doUapj9f6x09gyJvIKyXSgAkkvS2TiC6k/edit?usp=sharing)
+Introduction to Deep Learning | [Recording](https://www.youtube.com/watch?v=F-RbqPlavl0) | [Slides](https://docs.google.com/presentation/d/1VshN-Gbl3_86GU2PY2SldXl8n-9wQCkuzYSgWWbn25c/edit?usp=sharing)
+Introduction to Interactive Web-Based Visualizations | [Recording](https://www.youtube.com/watch?v=C64ZQzINc3k) | [Slides](https://docs.google.com/presentation/d/19Efb-wqrrIXSOYzwVinC4EdJQWIF8ZjVpAD1ZjsmnEo/edit?usp=sharing)
+Deep Dive into Interactive Web-Based Visualizations | [Recording](https://www.youtube.com/watch?v=GwjBvY79XlY) | [Slides](https://docs.google.com/presentation/d/19Efb-wqrrIXSOYzwVinC4EdJQWIF8ZjVpAD1ZjsmnEo/edit?usp=sharing)
+End to End Walkthrough | Recording | [Slides](https://docs.google.com/presentation/d/1g_rIdCM17iLzgMUuLGBCKNBxfnj26sFmfp03b6PCkpw/edit#slide=id.g73b5ebde1f_0_0)
