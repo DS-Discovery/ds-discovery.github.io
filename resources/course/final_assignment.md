@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown Resources
+title: Markdown 
 parent: Course Resources
 grand_parent: Resources
 nav_order: 3
