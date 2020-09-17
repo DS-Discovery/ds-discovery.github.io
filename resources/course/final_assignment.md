@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Final Assignment Resources
-parent: Resources
-nav_order: 1
+title: Markdown Resources
+parent: Course Resources
+grand_parent: Resources
+nav_order: 3
 ---
 ## Markdown Resources
 
