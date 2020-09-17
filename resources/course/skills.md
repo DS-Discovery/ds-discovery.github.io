@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skillset Resources
+title: Skillset
 parent: Course Resources
 grand_parent: Resources
 nav_order: 1
