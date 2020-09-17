@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshop
-parent: Course Resourses
+parent: Course Resources
 grand_parent: Resources
 nav_order: 0
 ---
