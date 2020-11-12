@@ -19,3 +19,9 @@ Introduction to Deep Learning | [Recording](https://www.youtube.com/watch?v=F-Rb
 Introduction to Interactive Web-Based Visualizations | [Recording](https://www.youtube.com/watch?v=C64ZQzINc3k) | [Slides](https://docs.google.com/presentation/d/19Efb-wqrrIXSOYzwVinC4EdJQWIF8ZjVpAD1ZjsmnEo/edit?usp=sharing)
 Deep Dive into Interactive Web-Based Visualizations | [Recording](https://www.youtube.com/watch?v=GwjBvY79XlY) | [Slides](https://docs.google.com/presentation/d/19Efb-wqrrIXSOYzwVinC4EdJQWIF8ZjVpAD1ZjsmnEo/edit?usp=sharing)
 End to End Walkthrough | Recording | [Slides](https://docs.google.com/presentation/d/1g_rIdCM17iLzgMUuLGBCKNBxfnj26sFmfp03b6PCkpw/edit#slide=id.g73b5ebde1f_0_0)
+
+## Microsoft Azure Workshops
+1. [Intro to Azure](https://youtu.be/3RRirPGDWbE)
+1. [Intro to Azure ML](https://www.youtube.com/watch?v=0D93Xx7miEk)
+1. [Azure ML Case Studies: Training GANs / Doing BERT Question Answering](https://www.youtube.com/watch?v=c2UaETGb53M)
+1. [Azure Q&A with Dmitry (ft. cloud storage tutorial!)](https://youtu.be/TAs3lycfPlo)
