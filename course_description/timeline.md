@@ -28,7 +28,7 @@ nav_order: 0
 
 
 ## Workshops: 09/04/2020 - 12/10/2020
-   > Once teams are finalized, students will be asked to complete a series of assignments, attend live working group sessions and dig into asynchronous workshop materials. These resources will culminate in a final presentation to be submitted for the end-of-semester Showcase event. We will be posting assignment submissions on this website so we can all be inspired by what other projects are up to!
+   > Once teams are finalized, students will be asked to complete a series of assignments, attend live working group sessions and dig into asynchronous workshop materials. These resources will culminate in a final presentation to be submitted for the end-of-semester Showcase event. To access live zoom meetings, please visit our [bCourses site](https://bcourses.berkeley.edu/courses/1498320).
    
    > Workshop | Description | Workgroup Schedule | Worksheet Due   
    :------------ | :------------- | :------------- | :-------------
