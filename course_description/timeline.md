@@ -38,7 +38,7 @@ nav_order: 0
    Module 4: Propose a Solution/Model | How does it work? | [LiveEvent + Date](www.google.com) | [bCoursesAssignment](www.google.com)
    Module 5: Examine the Impact | What were your results / what results do you expect? What decisions will be made as a result of your work?| [LiveEvent + Date](www.google.com) | [bCoursesAssignment](www.google.com)
 
-## Final Showcase [DATE TBA]
-   > In early December, we will be holding a live Zoom event for students to showcase their work to our extended data science community. final submissions will be included on the Division of Computing, Data Science and Society’s website. Submissions due [DATE TBA].
+## Final Showcase: RRR week
+   > In early December, we will be holding a live Zoom event for students to showcase their work to our extended data science community. final submissions will be included on the Division of Computing, Data Science and Society’s website. Submissions due 12/06.
 
  
