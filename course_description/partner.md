@@ -29,6 +29,6 @@ nav_order: 2
    >Survey | Due Date 
    :------------ | :------------- 
    [Matching System Survey](https://docs.google.com/forms/d/e/1FAIpQLSf5ATD6umzMQz_UwO9uIwpqodhE1ksPaIxTfeqEXNJjrreIWQ/viewform) | 09/25
-   Mid-term Survey | TBA 
+   [Mid-term Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpIVtvrUoV_E8YCbUc1CtfyS6Mj2AOqmb3irELl0gFGPrL9A/viewform) | 10/23 
    Showcase Prep Survey | TBA 
    Final Survey | TBA 
